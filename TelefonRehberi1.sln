@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TelefonRehberi1", "TelefonRehberi1\TelefonRehberi1.csproj", "{BB15FB5A-8536-45C5-91EF-9BF254EC8747}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{1655BA65-2D7D-4C3A-9774-9BC11411F30D}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\rehber\clear1.png = ..\..\rehber\clear1.png
+		..\..\rehber\excel.png = ..\..\rehber\excel.png
+		..\..\rehber\exit.png = ..\..\rehber\exit.png
+		..\..\rehber\save1.png = ..\..\rehber\save1.png
+		..\..\rehber\update.png = ..\..\rehber\update.png
+	EndProjectSection
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Kişi Listeleri", "Kişi Listeleri\Kişi Listeleri.vdproj", "{55CCFF08-68AE-4F5A-9065-937E73E194FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB15FB5A-8536-45C5-91EF-9BF254EC8747}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB15FB5A-8536-45C5-91EF-9BF254EC8747}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB15FB5A-8536-45C5-91EF-9BF254EC8747}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB15FB5A-8536-45C5-91EF-9BF254EC8747}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55CCFF08-68AE-4F5A-9065-937E73E194FA}.Debug|Any CPU.ActiveCfg = Debug
+		{55CCFF08-68AE-4F5A-9065-937E73E194FA}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96093193-224F-4FCF-8044-90894CD41B4A}
+	EndGlobalSection
+EndGlobal
